@@ -1,0 +1,6 @@
+name: bGraves
+version: '${version}'
+
+main: com.beststudio.bgraves.GravesPlugin
+api-version: '1.19'
+load: POSTWORLD
